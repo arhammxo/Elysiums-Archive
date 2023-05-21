@@ -1,7 +1,7 @@
-### Elysium's Archives:
+## Elysium's Archives: A Better Way to Validate Employee Engagement
 #### This is the solution for "HACKAP HACKATHON PROBLEM STATEMENT - 6" 
-#### A Repository for Multi-Level Secure Validation of engagement ID of employees with Access Level Employee Authentication
-#### ============================================================================================================
+A Repository for Multi-Level Secure Validation of engagement ID of employees with Access Level Employee Authentication
+#### ===================================================================================
 ###### THE **"up.py"** CONTAINS PYTHON CODE TO ADD DATA TO DATABASE AND ENCRYPT IT SECURELY. </br>
 ###### THE **"dow.py"** CONTAINS PYTHON CODE TO DECRYPT FILE AND RUN REQUIRED CHECKS AND OUTPUTS. </br>
 ###### THE **"creds.csv"** CONTAINS CREDENTIALS FOR AUTHENTICATION. </br>
